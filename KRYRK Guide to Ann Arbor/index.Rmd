@@ -1,0 +1,22 @@
+--- 
+title: "How to Make the Most Out of Your Summer in Ann Arbor"
+author: "KRYRK"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+# Introduction to the Guide {-}
+
+As the MBAn program starts at the end of June, we feel that it is important for students to have a comprehensive guide on how to make the most out of their summer in Ann Arbor as they kick-start their Michigan experience. Everyone is coming from a different place, whether it be from the same state, the same country, or a completely different country. The summer is a time to transition to the recruiting season, so our goal is to make sure that students feel settled, at home, and make friends who will be there for them for the program’s length and hopefully beyond. While school is the primary focus of our time here, it is vital to students’ mental health that they are able to enjoy their free time outside of class and easily navigate their environment. So, we want to give students an easy-access guide to the different facets of life in Ann Arbor.
+
+In this project, we will create chapters that we feel are the main aspects of transitioning to Ann Arbor. We want to make it easier for future MBAn students to succeed in their program while having lots of fun. The first chapter is dedicated to introducing the authors of the project as well as introducing the purpose of the report. The remainder of the chapters include information about Move-In, Academics, Shopping, Food/Entertainment, and Commuting.

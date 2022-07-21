@@ -1,0 +1,23 @@
+# About Us {-}
+
+[ short paragraph introducing the team ]
+
+## Kami 
+
+[ Kami's about me page ]
+
+## Raj
+
+[ Raj's about me page ]
+
+## Yuqi
+
+[ Yuqi's about me page ]
+
+## Rory
+
+[ Rory's about me page ]
+
+## Kian
+
+[ Kian's about me page ]

@@ -1,0 +1,5 @@
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+rmd_files: ["index.Rmd", "about-us.Rmd", "table-of-contents.Rmd", "01-introduction.Rmd", "02-move-in.Rmd", "03-academics.Rmd", "04-shopping.Rmd", "05-food-entertainment.Rmd", "06-commuting.Rmd", "07-references.Rmd"]
