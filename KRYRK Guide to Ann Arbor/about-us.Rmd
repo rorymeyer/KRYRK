@@ -33,4 +33,15 @@ A few fun facts about myself:
 
 ## Kian
 
-[ Kian's about me page ]
+# Kian Tabatabai
+
+## Background
+My name is *Kian Tabatabai*. Yes, a persian name, but not quite 100% persian genes. My mom and dad were both immigrants from Taiwan and Iran, respectively. A look at my face can foster ambiguity about my ethnic background. My ethnic background played a large role in my upbringing in an otherwise small, conservative town. I grew up in York, PA which is about 45 minutes South of Harrisburg, PA. Throughout my life, I was heavily involved in high school extracurricular activities such as highschool soccer and the Math Club. This is where I also found my passions for **business and finance**. 
+
+## Education
+I graduated from the *University of Pittsburgh* in 2021 with a business degree in **Finance**. There, I participated in a research lab as a data analyst which led me to find my passion for data science! I also participated in a student run club called *Panther Equity*. In our weekly meetings, we would work in teams to deliver stock pitches to the entire organization with the possibility of adding to our student-managed portfolio. Currently, I am an MBAn student at the *Ross School of Business* with an expected graduation date of April 2023. Here, I plan to cultivate my knowledge in both finance and technology!
+
+## Interests
+Some of my interests outside of the classroom include **fitness**, **investing**, **videogames**, and **performance cars**. I am a regular gym goer that enjoys to meet others and learn about their fitness goals and journey. I found my passion for fitness around the same time I learned about trading on the stock market (about 17 years old). Since I executed my first trade, I have never stopped reading market news and doing my own research on trading strategies! Finally, in my moments of extra free time, I enjoy playing videogames with my friends online and read about the latest breakthroughs in the performance vehicles industry!
+
+![](/Users/kiantabatabai/Desktop/About_Me_Photo.jpeg)
