@@ -4,9 +4,7 @@
 
 ## Kami 
 
-## Hello!
-
-My name is Kami Ziolkowski and I am a graduate student in the Business Analytics program at the Ross School of Business. I recently graduated from the University of Michigan with a degree in Data Science and a minor in Polish.
+Hello! My name is Kami Ziolkowski and I am a graduate student in the Business Analytics program at the Ross School of Business. I recently graduated from the University of Michigan with a degree in Data Science and a minor in Polish.
 
 ![](me2.jpg)
 
@@ -29,7 +27,21 @@ A few fun facts about myself:
 
 ## Rory
 
-[ Rory's about me page ]
+```{r, echo=FALSE, out.height="600px", fig.cap="A photo of me from graduation this past spring.", fig.align='center'}
+knitr::include_graphics("gradphoto.JPG")
+```
+
+Hi! My name is Aurora Meyer, but I prefer to go by Rory. I am a graduate student at the Ross School of Business pursuing a Masters in Business Analytics. This past April, I graduated with a degree in Biomedical Engineering from the University of Michigan. I also completed a minor in Computer Science. During my time at Michigan thus far, I learned how to code (the basics) in MATLAB, C++, Python, and HTML + JavaScript. So, I am excited to add R to my list of languages this summer!
+
+I am from Washington D.C. I have 3 older siblings (2 sisters and a brother), a dog named Belle, and a cat named Daisy. After college, I would love to move back to the east coast, but I'm not quite sure where yet. I am also considering moving abroad, likely somewhere in Europe, for a few years since I never had the opportunity to study abroad during undergrad.
+
+Some fun facts about me:
+
+- Italian is my favorite cuisine.
+- My favorite ice cream flavor is chocolate chip cookie dough.
+- I love to go skiing in Colorado in the winter.
+- I prefer a lake vacation over a beach vacation.
+- I want to visit Australia one day.
 
 ## Kian
 
@@ -44,4 +56,4 @@ I graduated from the *University of Pittsburgh* in 2021 with a business degree i
 ## Interests
 Some of my interests outside of the classroom include **fitness**, **investing**, **videogames**, and **performance cars**. I am a regular gym goer that enjoys to meet others and learn about their fitness goals and journey. I found my passion for fitness around the same time I learned about trading on the stock market (about 17 years old). Since I executed my first trade, I have never stopped reading market news and doing my own research on trading strategies! Finally, in my moments of extra free time, I enjoy playing videogames with my friends online and read about the latest breakthroughs in the performance vehicles industry!
 
-![](/Users/kiantabatabai/Desktop/About_Me_Photo.jpeg)
+![](About_Me_Photo.jpeg)

@@ -1,8 +1,13 @@
 kami
+hello
 raj
 yuqi
 rory
 kian
+kian-tabatabai
+background
+education
+interests
 introduction-to-ann-arbor
 welcome-to-ross
 move-in
