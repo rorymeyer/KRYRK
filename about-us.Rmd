@@ -2,7 +2,7 @@
 
 [ short paragraph introducing the team ]
 
-## Kami 
+## Kami Ziolkowsi
 
 Hello! My name is Kami Ziolkowski and I am a graduate student in the Business Analytics program at the Ross School of Business. I recently graduated from the University of Michigan with a degree in Data Science and a minor in Polish.
 
@@ -17,19 +17,16 @@ A few fun facts about myself:
 3. I have two cats named **Rue** and **Mr. Man**
 4. My favorite color is burgundy
 
-## Raj
+## Raj Kadian
 
 [ Raj's about me page ]
 
-## Yuqi
+## Yuqi Shi
 
 [ Yuqi's about me page ]
 
-## Rory
-
-```{r, echo=FALSE, out.height="600px", fig.cap="A photo of me from graduation this past spring.", fig.align='center'}
-knitr::include_graphics("gradphoto.JPG")
-```
+## Rory Meyer
+![](gradphoto.jpg)
 
 Hi! My name is Aurora Meyer, but I prefer to go by Rory. I am a graduate student at the Ross School of Business pursuing a Masters in Business Analytics. This past April, I graduated with a degree in Biomedical Engineering from the University of Michigan. I also completed a minor in Computer Science. During my time at Michigan thus far, I learned how to code (the basics) in MATLAB, C++, Python, and HTML + JavaScript. So, I am excited to add R to my list of languages this summer!
 
@@ -43,17 +40,18 @@ Some fun facts about me:
 - I prefer a lake vacation over a beach vacation.
 - I want to visit Australia one day.
 
-## Kian
+## Kian Tabatabai
 
-# Kian Tabatabai
+**Background**
 
-## Background
 My name is *Kian Tabatabai*. Yes, a persian name, but not quite 100% persian genes. My mom and dad were both immigrants from Taiwan and Iran, respectively. A look at my face can foster ambiguity about my ethnic background. My ethnic background played a large role in my upbringing in an otherwise small, conservative town. I grew up in York, PA which is about 45 minutes South of Harrisburg, PA. Throughout my life, I was heavily involved in high school extracurricular activities such as highschool soccer and the Math Club. This is where I also found my passions for **business and finance**. 
 
-## Education
+**Education**
+
 I graduated from the *University of Pittsburgh* in 2021 with a business degree in **Finance**. There, I participated in a research lab as a data analyst which led me to find my passion for data science! I also participated in a student run club called *Panther Equity*. In our weekly meetings, we would work in teams to deliver stock pitches to the entire organization with the possibility of adding to our student-managed portfolio. Currently, I am an MBAn student at the *Ross School of Business* with an expected graduation date of April 2023. Here, I plan to cultivate my knowledge in both finance and technology!
 
-## Interests
+**Interests**
+
 Some of my interests outside of the classroom include **fitness**, **investing**, **videogames**, and **performance cars**. I am a regular gym goer that enjoys to meet others and learn about their fitness goals and journey. I found my passion for fitness around the same time I learned about trading on the stock market (about 17 years old). Since I executed my first trade, I have never stopped reading market news and doing my own research on trading strategies! Finally, in my moments of extra free time, I enjoy playing videogames with my friends online and read about the latest breakthroughs in the performance vehicles industry!
 
 ![](About_Me_Photo.jpeg)
