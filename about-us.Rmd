@@ -1,6 +1,6 @@
 # About Us {-}
 
-[ short paragraph introducing the team ]
+![](group_photo.jpg)
 
 ## Kami Ziolkowsi
 

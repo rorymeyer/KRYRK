@@ -1,7 +1,7 @@
 # Table of Contents {-}
 1. [Introduction to Ann Arbor](#introduction)
 2. [Moving In](#move-in)
-5. [Academics](#academics)
-6. [Shopping](#shopping)
-7. [Food & Entertainment](#food-entertainment)
-8. [Commuting](#commuting)
+3. [Academics](#academics)
+4. [Shopping](#shopping)
+5. [Food & Entertainment](#food-entertainment)
+6. [Commuting](#commuting)
