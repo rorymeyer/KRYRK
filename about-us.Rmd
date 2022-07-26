@@ -1,12 +1,12 @@
 # About Us {-}
 
-![](group_photo.jpg)
+![](group_photo.jpg){width=50%}
 
 ## Kami Ziolkowsi
 
 Hello! My name is Kami Ziolkowski and I am a graduate student in the Business Analytics program at the Ross School of Business. I recently graduated from the University of Michigan with a degree in Data Science and a minor in Polish.
 
-![](me2.jpg)
+![](me2.jpg){width=50%}
 
 In my free time I like to *dance*, bake, and work on my bullet journal. I'm interested in music, coding, and learning really random facts.
 
@@ -28,7 +28,7 @@ Hello, I am Rajat Kadian and it is nice to meet you on this page! I am from Soni
 2. I am a single child.
 3. I have addressed a crowd of 10,000+ people.
 
-![](raj.jpg)
+![](raj.jpg){width=50%}
 
 **Favorite Lines**
 
