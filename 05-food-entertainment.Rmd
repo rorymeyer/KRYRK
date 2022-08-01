@@ -2,7 +2,31 @@
 
 
 ## Restaurants
+### Must Try's
+**Restaurant**                    | Cuisine Type              | Website
+-----------------                 | ---------------           | -----------
+**Zingerman's Delicatessen**      | Deli, Salad, Sandwiches   | https://www.zingermansdeli.com/
+**Frita Batidos**                 | Cuban, Burgers            | https://fritabatidos.com/       
+**Krazy Jim’s Blimpy Burger**     | American, Burgers         | https://www.blimpyburger.com/
+**Sava’s**                        | American (Traditional)    | https://www.savasannarbor.com/
+**Mani Osteria & Bar**            | Italian                   | https://maniosteria.com/
 
+### Hidden Gems
+**Restaurant**                    | Cuisine Type              | Website
+-----------------                 | ---------------           | -----------
+**Of Rice & Men**                 | Asian-American            | https://ofriceandmen.com/
+**Sushi Town**                    | Japanese, Sushi           | http://sushitownannarbor.com/    
+**Jerusalem Garden**              | Middle Eastern            | https://jerusalemgarden.net/
+
+### Best Breakfast Spots
+**Restaurant**                    | Website
+--------------------------------- | -----------
+**Benny's**                       | https://bennysfamilydining.com/
+**Dimo's**                        | https://www.dimosdelianddonuts.com/    
+**Breakfast House**               | https://breakfasthouseannarbor.com/
+**Angelo's**                      | https://www.angelosa2.com/
+**Anna's House**                  | https://annashouseus.com/
+**Amer's**                        | https://www.amersdeli.com/
 
 ## Night Life
 
