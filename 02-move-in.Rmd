@@ -2,13 +2,113 @@
 
 ## Finding Housing
 
-### Off Campus Housing
+### Graduate On-Campus Housing Guide (to be added)
 
-### Munger Graduate Residences
+•	No matter which dormitory it is, the size of the same room type will not be much different. The location of the dormitory is crucial for ordinary study and life. 
+•	Each dormitory has Wi-Fi coverage, and each room provides a wired network interface. Cables and routers can be rented from the Community Center or purchased directly from the Showcase of the Union of Lieutenant Colonel or Pierpont of the North Campus.
+•	Each dormitory has washing machines and dryers, which can be used by MCard or direct coin operated. You can also download the app PayRange for mobile payments.
+•	The Community Learning Center in the dormitory will be equipped with a Windows or Mac computer and a printer. Use your computer to log in to https://mprint.umich.edu to link to the printer in the dormitory.
+•	All dormitories are smoke-free.
+•	Meal Plan & Dining Dollars & Blue Bucks https://dining.umich.edu/meal-plans-rates/
 
-## What to Bring
+### Off-Campus Housing Guide (to be added)
 
-### Attire
+•	Later you apply, the further you could be living away.
+•	Use apartment searching websites - https://offcampushousing.umich.edu/
+•	Most housing options only provide August – July one-year lease with few exceptions, so summer sublease might be one option.
+•	Some features marked on the housing listing may not be available in all room types - please note that, for example, in-unit washer & dryer may only be available in renovated units.
+•	Some properties are not listed on any leasing websites, so inch-by-inch search on Google map or in person down the street and calling the property directly would be a good choice. 
+•	Consider commuting factor when searching for housing.
+•	Private subletting has high risks, whether for the lessee or the sublease. It is strongly recommended that everyone sublet through the official channels of the apartment. When signing the rental agreement, please read it carefully.
+•	((((((((((internet provider))))))))))
 
-### Other Essentials
+### Munger Graduate Residences & other halls review (?)
+
+## Moving
+
+### Transit Options (to be added)
+
+•	Drive your own car + UHAUL trailer
+•	UHAUL return in another place 
+•	moving company
+•	If there are a lot of things and the distance is long, you can go to ups and other companies to check LTL or rent the entire container
+•	Delivery + Air/Train/Bus
+
+### Furniture 
+
+•	Furniture – apt is more furnished, properties far from campus are more likely to be unfurnished.
+•	Facebook group used
+•	Order to the address in advance (part of the management can keep the package for you, others will be delivered to the porch/door)
+•	IKEA Target Walmart etc
+
+## Pre-Orientation Preparation
+
+### (items list below are subtitles)
+•	Academics – especially for non-cs (ce, ee, ds, stat, info) majors
+•	Program details
+•	dress code
+•	Class schedule
+
+## DTW - AA 
+
+### Michigan Flyer
+www.michiganflyer.com 
+
+(Insert Picture Here)
+
+Generally, taking the Michigan Flyer is a safe and cost-effective way to travel for students without a car or companion. Online reservation in advance is USD 12 per person for one-way, two pieces of luggage can be carried for free, and extra baggage will be charged at USD 15.
+
+(Insert Picture Here)
+
+You can also go directly to the station at the appointed time. The one-way fee is 15 US dollars. You need to prepare for the change in advance. The driver will not accept banknotes above 20 US dollars.
+Michigan Flyer operates 12-13 daily shuttles between Detroit Airport - DTW and Ann Arbor, about an hour, with parking at:
+Blake Transit Center (near Middle Campus) Kensington
+Detroit Airport
+East Lansing
+
+When booking tickets online, select the pickup and drop-off location, the ride time, the airline, and the number of passengers. Detroit Airport has several stops. Delta (Delta Air Lines), Air France, and KLM are in the new terminal. When stopping, pay attention to the radio on the car or ask the driver to avoid taking the wrong terminal.
+
+Opening hours:
+DTW Evans Terminal: 7:15AM - 8:15PM
+DTW McNamara Terminal: 7:30AM - 8:30PM
+
+*Note that itineraries change from time to time due to weather, traffic, or other conditions. In this case, Michigan Flyer may reverse the order of pickup and drop-off at both DTW terminals. So, the time may be adjusted accordingly. For details, please check the official website.
+
+* Choosing a bus two hours after the flight arrives is recommended, leaving enough time for yourself. If you accidentally miss your ride, please bring your ticket reservation voucher and board the next train. However, it should be noted that in this way, it is necessary to wait for other passengers who have booked this trip to get on the bus and ensure that there are still empty seats in the car before getting on the bus.
+
+### Ride Share - Uber / Lyft
+
+If you have fellow students carpooling together, you can choose these two very convenient car-hailing software. The cost from the airport to the campus is about 40-70 US dollars. (After 9:00 p.m., it takes about 20 minutes to wait because there are fewer cars, but the price is much lower, and you can get it for 25-40 US dollars, depending on whether it is a peak period or not)
+
+### AirRide
+
+https://www.theride.org/Services/Airport-Service
+
+(Insert Picture Here)
+
+Beginning July 13, 2018, AirRide's pickup location for all passengers at the McNamara Terminal at Detroit Metropolitan Wayne County Airport (DTW) has been moved to a more convenient location on the Departures Level, near Air France and Aeromexico Curbside, the International Ticketing/Check-In gate.
+
+If using an elevator, select Ticketing Level. When leaving the terminal, turn left and look for our vehicle near the orange traffic cone. The pickup location is marked with a "Municipal Transportation" sign. The pickup location for the North Terminal is still at Stall 1 of the Ground Transportation Center. The drop-off point for Ann Arbor is at the Blake Transit Center.
+
+## Stuff to Bring
+
+### For international students
+
+•	Toothpaste, toothbrush, mouthwash (you can use it in the bathroom at the airport after you arrive in the United States. But please remember to check it in.)
+•	Simple tableware (different from knives and forks, chopsticks and spoons can be carried with you without checking in), mainly used for temporary accommodation after arriving in the United States.
+•	Summer clothes that are light 
+•	Necessary winter clothes, down jackets and jackets are available. Do not bring too thick sweaters and wool pants. Clothes such as sweaters can be brought.
+•	Thermal underwear
+•	It is recommended to bring more long and short socks.
+•	Jeans can be worn in moderation.
+•	Consider the United States before purchasing winter shoes. Snow in schools was not severe until mid-November.
+•	Commonly used medicines can be brought, but they must be properly packaged individually. It would be better if there is a description of the content on the surface of the package for inspection by customs officers.
+•	Electrical appliances: Since the voltage in the United States is 110V and the grounding hole of the socket is round, you need to check the compatibility of electrical appliances in other countries, and a transformer may be required, so it is not recommended to carry them. Electric appliances in the United States are relatively cheap, and have a wide coverage, and rice cookers will be sold, so don’t worry. Most of the supporting chargers for notebook computers can adapt to voltages in various regions of the world.
+•	Accessories for electrical appliances: conversion plugs, sockets
+•	Umbrellas and rain boots (there will still be a certain amount of precipitation in August and September).
+•	Slippers (U.S. hotels generally do not provide disposable slippers)
+
+
+
+
 
