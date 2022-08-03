@@ -47,9 +47,10 @@ night-life
 live-music
 local-events
 ann-arbor-art-fair
-bank-of-ann-arbors-sonic-lunch
+bank-of-ann-arbors-sonic-lunch-summer-concert-series
 summer-carnival
 ann-arbor-film-festival
+top-of-the-park
 other-entertainment
 commuting
 modes-of-transportation
