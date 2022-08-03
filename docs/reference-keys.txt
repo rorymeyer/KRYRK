@@ -46,6 +46,10 @@ best-breakfast-spots
 night-life
 live-music
 local-events
+ann-arbor-art-fair
+bank-of-ann-arbors-sonic-lunch
+summer-carnival
+ann-arbor-film-festival
 other-entertainment
 commuting
 modes-of-transportation
