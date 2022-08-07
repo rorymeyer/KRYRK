@@ -3,7 +3,13 @@ rajat-kadian
 yuqi-shi
 rory-meyer
 kian-tabatabai
-introduction
+how-its-made
+group-process-documentation
+handling-challenges-and-change
+division-of-work-and-leveraging-strengths
+agile-work-practice
+rmarkdowngitgithub
+becoming-a-more-effective-and-productive-team
 move-in
 finding-housing
 graduate-on-campus-housing-guide-to-be-added

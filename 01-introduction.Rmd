@@ -1,5 +1,23 @@
-# Introduction to Ann Arbor {#introduction}
+# How It's Made
+## Group Process Documentation
+A documentation of your group process - how did you use the class material to make your group more effective.
 
+## Handling Challenges and Change
+How did your group handle challenges and change
+
+## Division of Work and Leveraging Strengths
+How did you divide work, leveraged unique strengths of each individual in the team
+
+## Agile Work Practice
+How did you adopt agile work practices
+
+## RMarkdown/Git/GitHub
+How did you manage the RMarkdown/Git/GitHub complexity and learning curve
+
+## Becoming a more effective and productive team
+What more could you do to become a more effective and productive team in the time left
+
+Anything else you would like to provide that pertains to your group process and effectiveness.
 
 
 
