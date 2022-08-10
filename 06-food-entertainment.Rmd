@@ -1,6 +1,5 @@
 # Food & Entertainment {#food-entertainment}
 
-
 ## Restaurants
 ### Must Try's
 **Restaurant**                    | Cuisine Type              | Website
@@ -17,8 +16,10 @@
 **Of Rice & Men**                 | Asian-American            | https://ofriceandmen.com/
 **Sushi Town**                    | Japanese, Sushi           | http://sushitownannarbor.com/    
 **Jerusalem Garden**              | Middle Eastern            | https://jerusalemgarden.net/
+**Blue Tractor**		              | type                      | http://www.bluetractor.net/ 
+**Chapala**			                  | type                      | https://www.getchapala.com/
 
-### Best Breakfast Spots
+### Popular Breakfast Spots
 **Restaurant**                    | Website
 --------------------------------- | -----------
 **Benny's**                       | https://bennysfamilydining.com/
@@ -27,12 +28,120 @@
 **Angelo's**                      | https://www.angelosa2.com/
 **Anna's House**                  | https://annashouseus.com/
 **Amer's**                        | https://www.amersdeli.com/
+**Avalon Cafe & Kitchen**         | https://avalonbreads.net/pages/avalon-ann-arbor
 
 ## Night Life
+### Clubs
+**Necto**
+
+* https://www.necto.com/
+
+**Live**
+
+* https://www.livea2.com/
+
+**Rick’s American Cafe**
+
+* Popular undergraduate bar in South University neighborhood
+* https://ricksamericancafe.com/ricks-ann-arbor/
+
+### Bars
+#### Downtown
+Name | Type | Happy Hour? | Website
+----------------- | --------------- | ----------- | --------------- 
+**The Blind Pig** | Live music | | https://blindpigmusic.com/
+**Lo-Fi** | Live music | | https://www.lofiannarbor.com/
+**MASH** | Cocktail & whiskey bar with live music | | https://mashbar.net/
+**The Last Word** | Cocktail bar | | https://thelastwordbar.com/
+**Nightcap** | Cocktail bar | | https://www.nightcapbara2.com/   
+**Babs’ Underground** | Speakeasy type-lounge | | https://www.babsannarbor.com
+**8-Ball Saloon** | Dive bar, can play pool and darts | | https://blindpigmusic.com/8-ball/
+**Alley Bar** | Bar | | https://www.a2alleybar.com//
+**Scorekeepers** | Sports bar & grill, popular among undergraduates | Daily from 5-8 pm | http://scorekeepersa2.com/
+**The Circ Bar** | Bar | Thursday-Saturday from 6-7:30 pm | https://www.thecircbar.com/
+**Ashley’s** | Bar & grill | Monday-Friday from 3-6 pm | http://www.ashleys.com/
+**Regent’s Field** | Sports bar |Monday-Thursday from 5-7 pm; Friday & Saturday from 3-7 pm; All Day Sundays | http://www.regentsfield.com/
+**Heidelberg** | German restaurant & bar | Wednesday & Thursday from 6-10 pm | https://heidelbergannarbor.com/
+**Connor O’Neill’s** | Irish pub | | https://www.conoroneills.com/
+**Bill’s Beer Garden** | Beer garden | Sunday-Wednesday from 5:30-6:30 pm | https://www.billsbeergarden.com/
+**The Grotto** | Watering hole | Monday-Friday from 3-6 pm | https://thegrottobar.com/ 
+
+#### South University
+Name | Type | Happy Hour? | Website
+-----------------  | --------------- | ----------- | -----------
+**Cantina** | Mexican restaurant & bar | Tuesday-Saturday from 7-9 pm | https://cantinaannarbor.com/
+**Good Time Charley’s** | American restaurant & bar | Tuesday-Saturday from 3-6 pm | https://www.charleysannarbor.com/ 
+**The Brown Jug** | Sports bar | Everyday from 4-6 pm (except game days) | https://brownjug-annarbor.com/
+**The Blue Leprechaun** | Irish pub | Monday-Saturday from 4-8 pm | http://www.theblueleprechaun.com/
+**Garage Bar** | Sport's bar | Daily from 3-6 pm | https://garagebarannarbor.com/
+**Casa Dominick’s** | Known for their sangria, picnic table patio |  | https://casa-dominicks.business.site/
 
 
-## Live Music
+### Themed Bar Nights
+#### Trivia
+Monday:
 
+Tuesday:
+
+* Haymaker Public House
+
+Wednesday:
+
+* Haymaker Public House
+* Good Time Charley’s
+
+Thursday:
+
+Friday:
+
+Saturday:
+
+Sunday:
+
+* Haymaker Public House
+
+#### Bingo
+Monday:
+
+Tuesday:
+
+* Good Time Charley’s
+
+Wednesday:
+
+* The Brown Jug 
+
+Thursday:
+
+Friday:
+
+Saturday:
+
+Sunday: 
+
+#### Karaoke
+Monday:
+
+Tuesday:
+
+Wednesday:
+
+Thursday:
+
+* The Circ Bar
+
+Friday:
+
+* The Circ Bar
+
+Saturday:
+
+* The Circ Bar
+
+Sunday:
+
+* Good Time Charley’s
+* The Brown Jug
 
 ## Local Events
 ### Ann Arbor Art Fair
@@ -54,5 +163,3 @@
 ### Top of the Park
 * Free outdoor music and movie series held on the University of Michigan Campus. Usually held throughout June and July.
 * Website: https://a2sf.org/top-of-the-park/
-
-## Other Entertainment
