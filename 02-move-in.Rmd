@@ -2,7 +2,7 @@
 
 ## Finding Housing
 
-### Graduate On-Campus Housing Guide (to be added)
+### Graduate On-Campus Housing Guide
 
 •	No matter which dormitory it is, the size of the same room type will not be much different. The location of the dormitory is crucial for ordinary study and life. 
 
@@ -16,7 +16,7 @@
 
 •	Meal Plan & Dining Dollars & Blue Bucks https://dining.umich.edu/meal-plans-rates/
 
-### Off-Campus Housing Guide (to be added)
+### Off-Campus Housing Guide
 
 •	Later you apply, the further you could be living away.
 
@@ -32,23 +32,23 @@
 
 •	Private subletting has high risks, whether for the lessee or the sublease. It is strongly recommended that everyone sublet through the official channels of the apartment. When signing the rental agreement, please read it carefully.
 
-•	((((((((((internet provider))))))))))
-
-### Munger Graduate Residences & other halls review (?)
+•	Ask for detailed information about internet provider options / WiFi coverage / etc.
 
 ## Moving
 
-### Transit Options (to be added)
+### Transit Options
 
 •	Drive your own car + UHAUL trailer
 
-•	UHAUL return in another place 
+•	UHAUL truck rental + return in another city 
 
-•	moving company
+•	UM moving and trucking services: https://ltp.umich.edu/logistics/moving-and-trucking/#contact-mt
 
-•	If there are a lot of things and the distance is long, you can go to ups and other companies to check LTL or rent the entire container
+•	Moving companies (UM's strategic contracts: http://procurement.umich.edu/product-service-category/moving-and-storage-services)
 
-•	Delivery + Air/Train/Bus
+•	If moving with large quantity of stuff & long distance, you can go to UPS or other logistics companies to check LTL or rent the entire container + hourly worker
+
+•	Delivery + Air/Train/Bus (Amtrak Ann Arbor Station)
 
 ### Furniture 
 
@@ -62,26 +62,22 @@
 
 ## Pre-Orientation Preparation
 
-### (items list below are subtitles)
+•	See Academics Chapter
 
-•	Academics – especially for non-cs (ce, ee, ds, stat, info) majors
+•	Program details - Admitted students guide, Canvas page, Emails from admission team
 
-•	Program details
+•	dress code - Business Professional vs Business Casual
 
-•	dress code
+•	Class schedule - Wolverine Access - Backpack / Register for Classes - Backpack / Registration tag - My Class Schedule - Select terms
 
-•	Class schedule
+•	Courses review & ratings & difficulty & past grades: https://atlas.ai.umich.edu/ 
 
 ## DTW - AA 
 
 ### Michigan Flyer
 www.michiganflyer.com 
 
-(Insert Picture Here)
-
 Generally, taking the Michigan Flyer is a safe and cost-effective way to travel for students without a car or companion. Online reservation in advance is USD 12 per person for one-way, two pieces of luggage can be carried for free, and extra baggage will be charged at USD 15.
-
-(Insert Picture Here)
 
 You can also go directly to the station at the appointed time. The one-way fee is 15 US dollars. You need to prepare for the change in advance. The driver will not accept banknotes above 20 US dollars.
 Michigan Flyer operates 12-13 daily shuttles between Detroit Airport - DTW and Ann Arbor, about an hour, with parking at:
@@ -106,8 +102,6 @@ If you have fellow students carpooling together, you can choose these two very c
 ### AirRide
 
 https://www.theride.org/Services/Airport-Service
-
-(Insert Picture Here)
 
 Beginning July 13, 2018, AirRide's pickup location for all passengers at the McNamara Terminal at Detroit Metropolitan Wayne County Airport (DTW) has been moved to a more convenient location on the Departures Level, near Air France and Aeromexico Curbside, the International Ticketing/Check-In gate.
 
