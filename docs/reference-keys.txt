@@ -49,7 +49,7 @@ clubs
 bars
 downtown
 south-university
-themed-bar-night
+themed-nights
 local-events
 ann-arbor-art-fair
 bank-of-ann-arbors-sonic-lunch-summer-concert-series

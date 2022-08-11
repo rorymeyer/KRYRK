@@ -77,12 +77,12 @@ Name | Type | Happy Hour? | Website
 **Casa Dominick’s** | Known for their sangria, picnic table patio |  | https://casa-dominicks.business.site/
 
 
-### Themed Bar Night
-    | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday**
-----|---------|------------|--------------|-----------|-----------|----------|----------
-**Trivia** | | * Haymaker Public House * The Brown Jug | * Haymaker Public House * Good Time Charley’s | | | | *Haymaker Public House
-**Bingo** | | * Good Time Charley's | * The Brown Jug | | | | |
-**Karaoke** | | | | * The Circ Bar | * The Circ Bar | * The Circ Bar | * Good Time Charley's * The Brown Jug
+### Themed Nights
+|           | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday**
+------------|------------|-------------|---------------|--------------|------------|--------------|----------
+**Trivia**  |            | •Haymaker Public House <br /> •The Brown Jug | •Haymaker Public House <br /> •Good Time Charley’s | | | | •Haymaker Public House
+**Bingo**   | | •Good Time Charley's | •The Brown Jug | | | | |
+**Karaoke** | | | | •The Circ Bar | •The Circ Bar | •The Circ Bar | •Good Time Charley's <br /> •The Brown Jug
 
 
 ## Local Events
