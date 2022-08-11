@@ -77,71 +77,13 @@ Name | Type | Happy Hour? | Website
 **Casa Dominick’s** | Known for their sangria, picnic table patio |  | https://casa-dominicks.business.site/
 
 
-### Themed Bar Nights
-#### Trivia
-Monday:
+### Themed Bar Night
+    | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday**
+----|---------|------------|--------------|-----------|-----------|----------|----------
+**Trivia** | | * Haymaker Public House * The Brown Jug | * Haymaker Public House * Good Time Charley’s | | | | *Haymaker Public House
+**Bingo** | | * Good Time Charley's | * The Brown Jug | | | | |
+**Karaoke** | | | | * The Circ Bar | * The Circ Bar | * The Circ Bar | * Good Time Charley's * The Brown Jug
 
-Tuesday:
-
-* Haymaker Public House
-
-Wednesday:
-
-* Haymaker Public House
-* Good Time Charley’s
-
-Thursday:
-
-Friday:
-
-Saturday:
-
-Sunday:
-
-* Haymaker Public House
-
-#### Bingo
-Monday:
-
-Tuesday:
-
-* Good Time Charley’s
-
-Wednesday:
-
-* The Brown Jug 
-
-Thursday:
-
-Friday:
-
-Saturday:
-
-Sunday: 
-
-#### Karaoke
-Monday:
-
-Tuesday:
-
-Wednesday:
-
-Thursday:
-
-* The Circ Bar
-
-Friday:
-
-* The Circ Bar
-
-Saturday:
-
-* The Circ Bar
-
-Sunday:
-
-* Good Time Charley’s
-* The Brown Jug
 
 ## Local Events
 ### Ann Arbor Art Fair
