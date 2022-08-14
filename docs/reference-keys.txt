@@ -57,11 +57,8 @@ summer-carnival
 ann-arbor-film-festival
 top-of-the-park
 commuting
-modes-of-transportation
-bus-systems
+walking
 blue-busses
-theride
-having-a-car-on-campus
-parking
-michigan-insurance
-plate-and-license-transition
+the-ride
+carsparking
+spin-scooters
