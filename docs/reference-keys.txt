@@ -24,6 +24,12 @@ ride-share---uber-lyft
 airride
 stuff-to-bring
 for-international-students
+commuting
+walking
+blue-buses
+the-ride
+carsparking
+spin-scooters
 academics
 orientation
 what-to-expect-from-summer-classes
@@ -56,9 +62,3 @@ bank-of-ann-arbors-sonic-lunch-summer-concert-series
 summer-carnival
 ann-arbor-film-festival
 top-of-the-park
-commuting
-walking
-blue-busses
-the-ride
-carsparking
-spin-scooters

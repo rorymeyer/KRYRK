@@ -1,20 +1,20 @@
-# Commuting Around Campus and Ann Arbor{#commuting}
+# Commuting Around Campus and Ann Arbor {#commuting}
 
-## 1.	Walking
+## Walking
 a.	Safety posts along the streets allow you to get instant direct contact with security
 b.	Campus integrated with Ann Arbor streets for more organized travel
 c.	https://maps.studentlife.umich.edu/
 
-## 2.	Blue Busses
+## Blue Buses
 a.	Free with M Card
 b.	Track bus routes in real time on the Magic Bus Website
 c.	https://mbus.ltp.umich.edu/home
 
-## 3.	The Ride
+## The Ride
 a.	Cheap and easy to travel between cities within Michigan
 b.	https://www.theride.org/
 
-## 4.	Cars/Parking
+## Cars/Parking
 a.	Parking Passes
   i.	4 Tiers of passes available for faculty, students, and staff based on seniority
     1.	Gold, Blue, Yellow, Orange
@@ -30,6 +30,6 @@ b.	Michigan Car Insurance
 c.	Plate and License Transition
   i.	https://www.secstates.com/MI_DMV_Michigan_Department_of_Motor_Vehicles
 
-## 5.	SPIN Scooters
+## SPIN Scooters
 a.	Download the app on iOS or Android for a fun way to zip around campus
 
