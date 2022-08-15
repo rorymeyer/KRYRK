@@ -1,5 +1,7 @@
 # Restaurants & Entertainment {#food-entertainment}
 
+![](annarbor.png){width=20%, fig.align=center}
+
 ## Restaurants
 ### Must Try's
 **Restaurant**                    | Cuisine Type              | Website
@@ -9,6 +11,8 @@
 **Krazy Jim’s Blimpy Burger**     | American, Burgers         | https://www.blimpyburger.com/
 **Sava’s**                        | American (Traditional)    | https://www.savasannarbor.com/
 **Mani Osteria & Bar**            | Italian                   | https://maniosteria.com/
+
+![](zingermans.jpeg){width=20%, fig.align=center}
 
 ### Hidden Gems
 **Restaurant**                    | Cuisine Type              | Website
@@ -33,14 +37,16 @@
 ## Night Life
 ### Clubs
 **Necto**
-
+![](necto.png){width=20%, fig.align=center}
 * https://www.necto.com/
 
 **Live**
+![](livea2.jpeg){width=20%, fig.align=center}
 
 * https://www.livea2.com/
 
 **Rick’s American Cafe**
+![](ricks.jpeg){width=20%, fig.align=center}
 
 * Popular undergraduate bar in South University neighborhood
 * https://ricksamericancafe.com/ricks-ann-arbor/
