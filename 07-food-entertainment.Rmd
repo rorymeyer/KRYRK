@@ -1,6 +1,6 @@
 # Restaurants & Entertainment {#food-entertainment}
 
-![](annarbor.png){width=80%}
+![](annarbor.png){width=90%}
 
 ## Restaurants
 ### Must Try's
@@ -107,7 +107,7 @@ Name | Type | Happy Hour? | Website
 
 ### Bank of Ann Arbor's Sonic Lunch (Summer Concert Series)
 
-![](soniclunch.jpeg){width=80%}
+![](soniclunch.jpeg){width=90%}
 
 * A free summer outdoor concert series that happens at the corner of Liberty and Division in downtown Ann Arbor. In summer 2022, these concerts are on Thursdays from 11:30 am to 1:30 pm.
 * Website: https://www.soniclunch.com/
@@ -121,7 +121,7 @@ Name | Type | Happy Hour? | Website
 
 ### Ann Arbor Film Festival
 
-![](filmfestival.jpeg){width=80%}
+![](filmfestival.jpeg){width=90%}
 
 * Watch feature films submitted by local producers at the State Theater (location may vary depending on year) at 7 pm on the first Thursday of every month. Runs from March to November.
 * Seeing a movie at the Michigan and/or State theaters is definitely a bucket list item!
