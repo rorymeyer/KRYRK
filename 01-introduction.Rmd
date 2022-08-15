@@ -1,20 +1,17 @@
 # How It's Made
 ## Group Process Documentation
-(A documentation of your group process - how did you use the class material to make your group more effective.)
 Team Charter has been our Holy Grail to keep our meetings, accountability, and deadlines in check. Most of our communication is hosted on GroupMe where setup our time to meet during the weeks to work on the website. These meetings are the place where most of our brainstorming happens, we capitalize using the resources at Ross like the Study Rooms, common screens, and the white boards to bounce off a lot of ideas and gradually converge our focus and work towards that. We usually start the meetings by discussing what we learn in the class before and how we can use any relevant topics to incorporate in our work product. More specifically, we write down keywords during these brainstorming sessions so that we can refer back to them to build up our book using the topics taught in the class.
 
 ## Handling Challenges and Change
 Due to our informal bonding during the beginning of our meet-ups, our group developed a high cohesion and group understanding. In face of any challenges and change, we found ourselves to be accommodating and flexible to make the most out of changing situations / challenging circumstances.
 
 ## Division of Work and Leveraging Strengths
-How did you divide work, leveraged unique strengths of each individual in the team
+**STILL NEED TO ANSWER:** How did you divide work, leveraged unique strengths of each individual in the team
 
 ## Agile Work Practice
-(How did you adopt agile work practices)
 One of our favorite agile principles is "[t]he most efficient and effective method of conveying information to and within a development team is face-to-face conversation." Our group makes a conscious effort to meet in-person so that we can hangout a little bit, see how everyone is doing before getting to the work. This has helped our team bond a lot and become more effective towards our goal. We have  discussed everything from  like cars, songs, vacation plans etc. and it has made us relate to each other a lot. This understanding has translated into accountability where everyone honors internal deadlines and promote a glass house environment where we are not afraid to ask for help from each other. Another Agile practice that we have capitalized is the idea of "Iterative, incremental, evolutionary." We make changes to our book often, add useful information as and when we deem useful, and seek feedback from within the group and from our peers to make it more useful to our audience.
 
 ## RMarkdown/Git/GitHub
-(How did you manage the RMarkdown/Git/GitHub complexity and learning curve)
 Th technical aspect of the project impacted each of us differently due to our backgrounds and previous knowledge with using a coding language and a platform like the GitHub. In face of ambiguity and initial setup, Google was our go-to resource beside each other. We relied on each other to impart a common, incremental understanding of R and Git within the group so everyone is comfortable and proficient enough to use the platforms independently and confident enough to seek help from each other. For example, we went through the R concepts collectively before the first R submission. In order to complete the "About Me" activity we made sure that everyone pushed their content individually so that each of us has the R setup with necessary packages installed.
 
 ## Becoming a more effective and productive team

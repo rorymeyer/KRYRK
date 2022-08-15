@@ -1,0 +1,135 @@
+# Restaurants & Entertainment {#food-entertainment}
+
+![](annarbor.png){width=80%}
+
+## Restaurants
+### Must Try's
+**Restaurant**                    | Cuisine Type              | Website
+-----------------                 | ---------------           | -----------
+**Zingerman's Delicatessen**      | Deli, Salad, Sandwiches   | https://www.zingermansdeli.com/
+**Frita Batidos**                 | Cuban, Burgers            | https://fritabatidos.com/       
+**Krazy Jim’s Blimpy Burger**     | American, Burgers         | https://www.blimpyburger.com/
+**Sava’s**                        | American (Traditional)    | https://www.savasannarbor.com/
+**Mani Osteria & Bar**            | Italian                   | https://maniosteria.com/
+
+![](zingermans.jpeg){width=47.5%} ![](fritas.jpeg){width=47.5%}
+
+### Hidden Gems
+**Restaurant**                    | Cuisine Type              | Website
+-----------------                 | ---------------           | -----------
+**Of Rice & Men**                 | Asian-American            | https://ofriceandmen.com/
+**Sushi Town**                    | Japanese, Sushi           | http://sushitownannarbor.com/    
+**Jerusalem Garden**              | Middle Eastern            | https://jerusalemgarden.net/
+**Blue Tractor**		              | Barbecue                  | http://www.bluetractor.net/ 
+**Chapala**			                  | Mexican                   | https://www.getchapala.com/
+
+### Popular Breakfast Spots
+**Restaurant**                    | Website
+--------------------------------- | -----------
+**Benny's**                       | https://bennysfamilydining.com/
+**Dimo's**                        | https://www.dimosdelianddonuts.com/    
+**Breakfast House**               | https://breakfasthouseannarbor.com/
+**Angelo's**                      | https://www.angelosa2.com/
+**Anna's House**                  | https://annashouseus.com/
+**Amer's**                        | https://www.amersdeli.com/
+**Avalon Cafe & Kitchen**         | https://avalonbreads.net/pages/avalon-ann-arbor
+
+## Night Life
+### Clubs
+**Necto**
+
+![](necto.png){width=70%}
+
+* https://www.necto.com/
+
+**Live**
+
+![](livea2.jpeg){width=70%}
+
+* https://www.livea2.com/
+
+**Rick’s American Cafe**
+![](ricks.jpeg){width=80%}
+
+* Popular undergraduate bar in South University neighborhood
+* https://ricksamericancafe.com/ricks-ann-arbor/
+
+### Bars
+#### Downtown
+Name | Type | Happy Hour? | Website
+----------------- | --------------- | ----------- | --------------- 
+**The Blind Pig** | Live music | | https://blindpigmusic.com/
+**Lo-Fi** | Live music | | https://www.lofiannarbor.com/
+**MASH** | Cocktail & whiskey bar with live music | | https://mashbar.net/
+**The Last Word** | Cocktail bar | | https://thelastwordbar.com/
+**Nightcap** | Cocktail bar | | https://www.nightcapbara2.com/   
+**Babs’ Underground** | Speakeasy type-lounge | | https://www.babsannarbor.com
+**8-Ball Saloon** | Dive bar, can play pool and darts | | https://blindpigmusic.com/8-ball/
+**Alley Bar** | Bar | | https://www.a2alleybar.com//
+**Scorekeepers** | Sports bar & grill, popular among undergraduates | Daily from 5-8 pm | http://scorekeepersa2.com/
+**The Circ Bar** | Bar | Thursday-Saturday from 6-7:30 pm | https://www.thecircbar.com/
+**Ashley’s** | Bar & grill | Monday-Friday from 3-6 pm | http://www.ashleys.com/
+**Regent’s Field** | Sports bar |Monday-Thursday from 5-7 pm; Friday & Saturday from 3-7 pm; All Day Sundays | http://www.regentsfield.com/
+**Heidelberg** | German restaurant & bar | Wednesday & Thursday from 6-10 pm | https://heidelbergannarbor.com/
+**Connor O’Neill’s** | Irish pub | | https://www.conoroneills.com/
+**Bill’s Beer Garden** | Beer garden | Sunday-Wednesday from 5:30-6:30 pm | https://www.billsbeergarden.com/
+**The Grotto** | Watering hole | Monday-Friday from 3-6 pm | https://thegrottobar.com/ 
+
+#### South University
+Name | Type | Happy Hour? | Website
+-----------------  | --------------- | ----------- | -----------
+**Cantina** | Mexican restaurant & bar | Tuesday-Saturday from 7-9 pm | https://cantinaannarbor.com/
+**Good Time Charley’s** | American restaurant & bar | Tuesday-Saturday from 3-6 pm | https://www.charleysannarbor.com/ 
+**The Brown Jug** | Sports bar | Everyday from 4-6 pm (except game days) | https://brownjug-annarbor.com/
+**The Blue Leprechaun** | Irish pub | Monday-Saturday from 4-8 pm | http://www.theblueleprechaun.com/
+**Garage Bar** | Sport's bar | Daily from 3-6 pm | https://garagebarannarbor.com/
+**Casa Dominick’s** | Known for their sangria, picnic table patio |  | https://casa-dominicks.business.site/
+
+
+### Themed Nights
+
+![](themednights.jpeg)
+
+|           | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday**
+------------|------------|-------------|---------------|--------------|------------|--------------|----------
+**Trivia**  |            | •Haymaker Public House <br /> •The Brown Jug | •Haymaker Public House <br /> •Good Time Charley’s | | | | •Haymaker Public House
+**Bingo**   | | •Good Time Charley's | •The Brown Jug | | | | |
+**Karaoke** | | | | •The Circ Bar | •The Circ Bar | •The Circ Bar | •Good Time Charley's <br /> •The Brown Jug
+
+
+## Local Events
+### Ann Arbor Art Fair
+
+![](artfair.webp)
+
+- A local art fair that stretches from South University Ave to Main St and usually takes place in the middle of July.
+- Website: https://www.theannarborartfair.com/
+
+### Bank of Ann Arbor's Sonic Lunch (Summer Concert Series)
+
+![](soniclunch.jpeg){width=80%}
+
+* A free summer outdoor concert series that happens at the corner of Liberty and Division in downtown Ann Arbor. In summer 2022, these concerts are on Thursdays from 11:30 am to 1:30 pm.
+* Website: https://www.soniclunch.com/
+
+### Summer Carnival
+
+![](carnival.jpeg)
+
+* Carnival located at Pioneer High School (across the street from the Big House) that usually happens at the end of June.
+* Website: https://annarborobserver.com/mc-events/69th-annual-summer-carnival-ann-arbor-jaycees-2/?mc_id=3428
+
+### Ann Arbor Film Festival
+
+![](filmfestival.jpeg){width=80%}
+
+* Watch feature films submitted by local producers at the State Theater (location may vary depending on year) at 7 pm on the first Thursday of every month. Runs from March to November.
+* Seeing a movie at the Michigan and/or State theaters is definitely a bucket list item!
+* Website: https://www.aafilmfest.org/
+
+### Top of the Park
+
+![](topofthepark.jpeg){width=80%}
+
+* Free outdoor music and movie series held on the University of Michigan Campus. Usually held throughout June and July.
+* Website: https://a2sf.org/top-of-the-park/
