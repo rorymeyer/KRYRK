@@ -87,6 +87,9 @@ Name | Type | Happy Hour? | Website
 
 
 ### Themed Nights
+
+![](themednights.jpeg)
+
 |           | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday**
 ------------|------------|-------------|---------------|--------------|------------|--------------|----------
 **Trivia**  |            | •Haymaker Public House <br /> •The Brown Jug | •Haymaker Public House <br /> •Good Time Charley’s | | | | •Haymaker Public House
@@ -96,21 +99,37 @@ Name | Type | Happy Hour? | Website
 
 ## Local Events
 ### Ann Arbor Art Fair
+
+![](artfair.webp)
+
 - A local art fair that stretches from South University Ave to Main St and usually takes place in the middle of July.
 - Website: https://www.theannarborartfair.com/
 
 ### Bank of Ann Arbor's Sonic Lunch (Summer Concert Series)
+
+![](soniclunch.jpeg){width=80%}
+
 * A free summer outdoor concert series that happens at the corner of Liberty and Division in downtown Ann Arbor. In summer 2022, these concerts are on Thursdays from 11:30 am to 1:30 pm.
 * Website: https://www.soniclunch.com/
 
 ### Summer Carnival
+
+![](carnival.jpeg)
+
 * Carnival located at Pioneer High School (across the street from the Big House) that usually happens at the end of June.
 * Website: https://annarborobserver.com/mc-events/69th-annual-summer-carnival-ann-arbor-jaycees-2/?mc_id=3428
 
 ### Ann Arbor Film Festival
-* Watch feature films submitted by local producers at the State Theater at 7 pm on the first Thursday of every month. Runs from March to November.
+
+![](filmfestival.jpeg){width=80%}
+
+* Watch feature films submitted by local producers at the State Theater (location may vary depending on year) at 7 pm on the first Thursday of every month. Runs from March to November.
+* Seeing a movie at the Michigan and/or State theaters is definitely a bucket list item!
 * Website: https://www.aafilmfest.org/
 
 ### Top of the Park
+
+![](topofthepark.jpeg){width=80%}
+
 * Free outdoor music and movie series held on the University of Michigan Campus. Usually held throughout June and July.
 * Website: https://a2sf.org/top-of-the-park/
