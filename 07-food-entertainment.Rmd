@@ -1,6 +1,6 @@
 # Restaurants & Entertainment {#food-entertainment}
 
-![](annarbor.png){width=20%, fig.align=center}
+![](annarbor.png){width=80%}
 
 ## Restaurants
 ### Must Try's
@@ -12,7 +12,7 @@
 **Sava’s**                        | American (Traditional)    | https://www.savasannarbor.com/
 **Mani Osteria & Bar**            | Italian                   | https://maniosteria.com/
 
-![](zingermans.jpeg){width=20%, fig.align=center}
+![](zingermans.jpeg){width=47.5%} ![](fritas.jpeg){width=47.5%}
 
 ### Hidden Gems
 **Restaurant**                    | Cuisine Type              | Website
@@ -20,8 +20,8 @@
 **Of Rice & Men**                 | Asian-American            | https://ofriceandmen.com/
 **Sushi Town**                    | Japanese, Sushi           | http://sushitownannarbor.com/    
 **Jerusalem Garden**              | Middle Eastern            | https://jerusalemgarden.net/
-**Blue Tractor**		              | type                      | http://www.bluetractor.net/ 
-**Chapala**			                  | type                      | https://www.getchapala.com/
+**Blue Tractor**		              | Barbecue                  | http://www.bluetractor.net/ 
+**Chapala**			                  | Mexican                   | https://www.getchapala.com/
 
 ### Popular Breakfast Spots
 **Restaurant**                    | Website
@@ -37,16 +37,19 @@
 ## Night Life
 ### Clubs
 **Necto**
-![](necto.png){width=20%, fig.align=center}
+
+![](necto.png){width=70%}
+
 * https://www.necto.com/
 
 **Live**
-![](livea2.jpeg){width=20%, fig.align=center}
+
+![](livea2.jpeg){width=70%}
 
 * https://www.livea2.com/
 
 **Rick’s American Cafe**
-![](ricks.jpeg){width=20%, fig.align=center}
+![](ricks.jpeg){width=80%}
 
 * Popular undergraduate bar in South University neighborhood
 * https://ricksamericancafe.com/ricks-ann-arbor/
