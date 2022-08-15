@@ -23,7 +23,7 @@ michigan-flyer
 ride-share---uber-lyft
 airride
 stuff-to-bring
-for-international-students
+a-list-for-international-students
 commuting
 walking
 blue-buses
@@ -34,7 +34,7 @@ academics
 orientation
 what-to-expect-from-summer-classes
 summer-career-opportunities
-student-resources
+studentresources
 gym-membership-free-with-tuition
 printing
 university-health-service

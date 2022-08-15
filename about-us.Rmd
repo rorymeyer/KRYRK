@@ -1,12 +1,12 @@
 # About Us {-}
 
-![](group_photo.jpg){width=50%}
+![](group_photo.jpg){width=80%}
 
 ## Kami Ziolkowsi
 
 Hello! My name is Kami Ziolkowski and I am a graduate student in the Business Analytics program at the Ross School of Business. I recently graduated from the University of Michigan with a degree in Data Science and a minor in Polish.
 
-![](me2.jpg){width=50%}
+![](me2.jpg){width=80%}
 
 In my free time I like to *dance*, bake, and work on my bullet journal. I'm interested in music, coding, and learning really random facts.
 
@@ -28,7 +28,7 @@ Hello, I am Rajat Kadian and it is nice to meet you on this page! I am from Soni
 2. I am a single child.
 3. I have addressed a crowd of 10,000+ people.
 
-![](raj.jpg){width=50%}
+![](raj.jpg){width=80%}
 
 **Favorite Lines**
 
@@ -91,4 +91,4 @@ I graduated from the *University of Pittsburgh* in 2021 with a business degree i
 
 Some of my interests outside of the classroom include **fitness**, **investing**, **videogames**, and **performance cars**. I am a regular gym goer that enjoys to meet others and learn about their fitness goals and journey. I found my passion for fitness around the same time I learned about trading on the stock market (about 17 years old). Since I executed my first trade, I have never stopped reading market news and doing my own research on trading strategies! Finally, in my moments of extra free time, I enjoy playing videogames with my friends online and read about the latest breakthroughs in the performance vehicles industry!
 
-![](About_Me_Photo.jpeg){width=50%}
+![](About_Me_Photo.jpeg){width=80%}

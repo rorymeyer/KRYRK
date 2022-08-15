@@ -1,7 +1,58 @@
 # Table of Contents {-}
-1. [Introduction to Ann Arbor](#introduction)
-2. [Moving In](#move-in)
-3. [Academics](#academics)
-4. [Shopping](#shopping)
-5. [Food & Entertainment](#food-entertainment)
-6. [Commuting](#commuting)
+1. [How It's Made](#introduction)
+    1. Group Process Documentation
+    2. Handling Challenges and Change
+    3. Division of Work and Leveraging Strengths
+    4. Agile Work Practice
+    5. RMarkdown/Git/GitHub
+    6. Becoming a More Effective and Productive Team
+2. [Housing & Move-In](#move-in)
+    1. Finding Housing
+        1. Graduate On-Campus Housing Guide
+        2. Off-Campus Housing Guide
+    2. Moving
+        1. Transit Options
+        2. Furniture
+    3. Pre-Orientation Preparation
+    4. DTW - AA
+        1. Michigan Flyer
+        2. Ride Share - Uber/Lyft
+        3. AirRide
+    5. Stuff to Bring
+        1. A List For International Students
+3. [Commuting Around Campus and Ann Arbor](#commuting)
+    1. Walking
+    2. Blue Buses
+    3. The Ride
+    4. Cars/Parking
+    5. Spin Scooters
+4. [Academics](#academics)
+    1. Orientation
+    2. What to Expect from Summer Classes
+    3. Summer Career Opportunities
+5. [Student Resources](#studentresources)
+    1. Gym Membership (free with tuition)
+    2. Printing
+    3. University Health Service
+    4. Welcome Wednesdays
+    5. Passport to the Arts
+    6. Student Support Services
+6. [Shopping](#shopping)
+    1. Mall
+    2. Local Shops
+    3. Food
+7. [Restaurants & Entertainment](#food-entertainment)
+    1. Restaurants
+        1. Must Try's
+        2. Hidden Gems
+        3. Popular Breakfast Spots
+    2. Night Life
+        1. Clubs
+        2. Bars
+        3. Themed Nights
+    3. Local Events
+        1. Ann Arbor Art Fair
+        2. Bank of Ann Arbor's Sonic Lunch (Summer Concert Series)
+        3. Summer Carnival
+        4. Ann Arbor Film Festival
+        5. Top of the Park
