@@ -9,10 +9,12 @@ c.	https://maps.studentlife.umich.edu/
 a.	Free with M Card
 b.	Track bus routes in real time on the Magic Bus Website
 c.	https://mbus.ltp.umich.edu/home
+![](/Users/kiantabatabai/Desktop/Software Teams and Project Management/michigan_blue_bus.jpeg)
 
 ## The Ride
 a.	Cheap and easy to travel between cities within Michigan
 b.	https://www.theride.org/
+![](/Users/kiantabatabai/Desktop/Software Teams and Project Management/flexride_final-web.png)
 
 ## Cars/Parking
 a.	Parking Passes
@@ -32,4 +34,5 @@ c.	Plate and License Transition
 
 ## SPIN Scooters
 a.	Download the app on iOS or Android for a fun way to zip around campus
+![](/Users/kiantabatabai/Desktop/Software Teams and Project Management/download.jpeg)
 
