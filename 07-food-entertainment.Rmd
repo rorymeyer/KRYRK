@@ -40,19 +40,19 @@
 
 ![](necto.png){width=70%}
 
-* https://www.necto.com/
+- https://www.necto.com/
 
 **Live**
 
 ![](livea2.jpeg){width=70%}
 
-* https://www.livea2.com/
+- https://www.livea2.com/
 
 **Rick’s American Cafe**
 ![](ricks.jpeg){width=80%}
 
-* Popular undergraduate bar in South University neighborhood
-* https://ricksamericancafe.com/ricks-ann-arbor/
+- Popular undergraduate bar in South University neighborhood
+- https://ricksamericancafe.com/ricks-ann-arbor/
 
 ### Bars
 #### Downtown
@@ -92,9 +92,9 @@ Name | Type | Happy Hour? | Website
 
 |           | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** | **Sunday**
 ------------|------------|-------------|---------------|--------------|------------|--------------|----------
-**Trivia**  |            | •Haymaker Public House <br /> •The Brown Jug | •Haymaker Public House <br /> •Good Time Charley’s | | | | •Haymaker Public House
-**Bingo**   | | •Good Time Charley's | •The Brown Jug | | | | |
-**Karaoke** | | | | •The Circ Bar | •The Circ Bar | •The Circ Bar | •Good Time Charley's <br /> •The Brown Jug
+**Trivia**  |            |- Haymaker Public House <br />  - The Brown Jug | - Haymaker Public House <br />  - Good Time Charley’s | | | |- Haymaker Public House
+**Bingo**   | |- Good Time Charley's |- The Brown Jug | | | | |
+**Karaoke** | | | |- The Circ Bar |- The Circ Bar |- The Circ Bar |- Good Time Charley's <br /> - The Brown Jug
 
 
 ## Local Events
@@ -109,27 +109,27 @@ Name | Type | Happy Hour? | Website
 
 ![](soniclunch.jpeg){width=90%}
 
-* A free summer outdoor concert series that happens at the corner of Liberty and Division in downtown Ann Arbor. In summer 2022, these concerts are on Thursdays from 11:30 am to 1:30 pm.
-* Website: https://www.soniclunch.com/
+- A free summer outdoor concert series that happens at the corner of Liberty and Division in downtown Ann Arbor. In summer 2022, these concerts are on Thursdays from 11:30 am to 1:30 pm.
+- Website: https://www.soniclunch.com/
 
 ### Summer Carnival
 
 ![](carnival.jpeg)
 
-* Carnival located at Pioneer High School (across the street from the Big House) that usually happens at the end of June.
-* Website: https://annarborobserver.com/mc-events/69th-annual-summer-carnival-ann-arbor-jaycees-2/?mc_id=3428
+- Carnival located at Pioneer High School (across the street from the Big House) that usually happens at the end of June.
+- Website: https://annarborobserver.com/mc-events/69th-annual-summer-carnival-ann-arbor-jaycees-2/?mc_id=3428
 
 ### Ann Arbor Film Festival
 
 ![](filmfestival.jpeg){width=90%}
 
-* Watch feature films submitted by local producers at the State Theater (location may vary depending on year) at 7 pm on the first Thursday of every month. Runs from March to November.
-* Seeing a movie at the Michigan and/or State theaters is definitely a bucket list item!
-* Website: https://www.aafilmfest.org/
+- Watch feature films submitted by local producers at the State Theater (location may vary depending on year) at 7 pm on the first Thursday of every month. Runs from March to November.
+- Seeing a movie at the Michigan and/or State theaters is definitely a bucket list item!
+- Website: https://www.aafilmfest.org/
 
 ### Top of the Park
 
 ![](topofthepark.jpeg){width=80%}
 
-* Free outdoor music and movie series held on the University of Michigan Campus. Usually held throughout June and July.
-* Website: https://a2sf.org/top-of-the-park/
+- Free outdoor music and movie series held on the University of Michigan Campus. Usually held throughout June and July.
+- Website: https://a2sf.org/top-of-the-park/
