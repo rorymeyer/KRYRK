@@ -26,6 +26,7 @@
     3. The Ride
     4. Cars/Parking
     5. Spin Scooters
+    6. Rideshare: Uber & Lyft
 4. [Academics](#academics)
     1. Orientation
     2. What to Expect from Summer Classes

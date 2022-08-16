@@ -27,9 +27,10 @@ a-list-for-international-students
 commuting
 walking
 blue-buses
-the-ride
+theride
 carsparking
 spin-scooters
+rideshare
 academics
 orientation
 what-to-expect-from-summer-classes
