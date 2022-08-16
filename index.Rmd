@@ -1,4 +1,4 @@
---- 
+---
 title: "How to Make the Most Out of Your Summer in Ann Arbor"
 author: "KRYRK"
 date: "`r Sys.Date()`"
@@ -11,8 +11,8 @@ github-repo: rorymeyer/KRYRK
 description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::bs4_book."
 ---
 
-# Introduction to the Guide {-}
+# Introduction to the Guide {.unnumbered}
 
-As the MBAn program starts at the end of June, we feel that it is important for students to have a comprehensive guide on how to make the most out of their summer in Ann Arbor as they kick-start their Michigan experience. Everyone is coming from a different place, whether it be from within Michigan, within the US, or a from completely different country. The summer is a time to transition to Ann Arbor, the University, and the recruiting season, so our goal is to make sure that students feel settled, at home, and make friends who will be there for them for the program’s length and hopefully beyond. While school is the primary focus of our time here, it is vital to students’ mental health that they are able to enjoy their free time outside of class and easily navigate their environment. So, we want to give students an easy-access guide to the different facets of life in Ann Arbor.
+As the MBAn program starts at the end of June, we feel that it is important for students to have a comprehensive guide on how to make the most out of their summer in Ann Arbor as they kick-start their Michigan experience. Everyone is coming from a different place, whether it be from within Michigan, within the US, or a from completely different country. The summer is a time to transition to Ann Arbor, the University, and the recruiting season, so our goal is to make sure that students feel settled, at home, and make friends who will be there for them for the program's length and hopefully beyond. While school is the primary focus of our time here, it is vital to students' mental health that they are able to enjoy their free time outside of class and easily navigate their environment. So, we want to give students an easy-access guide to the different facets of life in Ann Arbor.
 
 In this project, we created chapters that we feel represent the main aspects of transitioning to Ann Arbor. We want to make it easier for future MBAn students to succeed in their program while having lots of fun. In this book, we introduce the authors of the project as well as the process we went through to create this guide. The remainder of the chapters include information about Housing & Move-In, Commuting, Academics, Student Resources, Shopping, and Restaurants & Entertainment.
